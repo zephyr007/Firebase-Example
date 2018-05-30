@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "85403733606",
+    "firebase_url": "https://fir-try-48715.firebaseio.com",
+    "project_id": "fir-try-48715",
+    "storage_bucket": "fir-try-48715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85403733606:android:5102d164d3a00c7b",
+        "android_client_info": {
+          "package_name": "com.example.dhemi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85403733606-uemfi8vonni0t96hb5h3uj2qgcll4pl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhemi.myapplication",
+            "certificate_hash": "a2a06154a1df7100becbb4227a6513751e27e29a"
+          }
+        },
+        {
+          "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuvWZ7xz1gMh0HL3tWt7FzOGFi8LgsZKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85403733606:android:95a34e0c738bdf68",
+        "android_client_info": {
+          "package_name": "comfirebasetry.example.dhemi.firebasetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85403733606-om9lv7qhtc0enfvm3gmtlsvak9h36sd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comfirebasetry.example.dhemi.firebasetry",
+            "certificate_hash": "4fbdaa1717391e30005c60390f0125806efc55b8"
+          }
+        },
+        {
+          "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuvWZ7xz1gMh0HL3tWt7FzOGFi8LgsZKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85403733606-435pbius0qqsbd9l8rhcj5u9sq6enkja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
